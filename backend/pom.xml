@@ -10,6 +10,7 @@
     <properties>
         <java.version>21</java.version>
         <spring.boot.version>3.2.0</spring.boot.version>
+         <sonar.organization>dana-nunes</sonar.organization>
     </properties>
 
     <!-- Spring Boot BOM -->
